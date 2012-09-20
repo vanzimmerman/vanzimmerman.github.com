@@ -1,1 +1,101 @@
-The three sites outlined here
+
+
+
+
+One: a fabulously wonderful resort catering to the rich and famous (real or imagined)
+
+My concept for the the fabulously wonderful resort is to combine the spa like qualities of something like Kripalu or Canyon Ranch with the getaway resort of the guest ranch variety. While I would like to explore features of world-class resorts from all over  Thailand or the Caribbean,  the South of France or Tuscany, for example, my general plan is to focus on something in Montana. I grew up there, have lived there and visited quite a bit. I come from an area that is heavily touristed and that has attracted the wealthy buyers of ranches. I might also like to look at this from not only the fake but a parodic angle, making the accommodations, the activities, the spa features excessively Western.
+
+Below is a list of links of sites I’ve looked at as inspiration, examples and sources for more examples.
+
+US resorts that fit the bill:
+http://www.canyonranch.com/
+http://www.kripalu.org/
+http://www.goldendoor.com/
+http://www.theranchatrockcreek.com/
+http://www.twinfarms.com/
+http://enchantmentresort.com/
+
+List links of links or exclusive resort aggregator sites:
+
+http://www.exclusiveresorts.com/
+http://www.forbes.com/sites/larryolmsted/2012/03/22/10-coolest-all-inclusive-resorts/
+http://www.travelandleisure.com/articles/worlds-best-hotels
+http://www.forbes.com/2006/07/26/top-spas-world_cx_sb_0727spas.html
+http://www.fivestaralliance.com/besthotels/list/worldsbestsparesorts
+http://www.fodors.com/news/story_1662.html
+
+magazines with links/ad to more examples:
+http://www.architecturaldigest.com/
+http://www.cntraveler.com/
+
+Montana specific dude ranches:
+http://www.montanadra.com/choosing_a_ranch/Member%20Ranches.aspx
+http://www.guestranches.com/us_state_page.php?state=MT
+http://www.320ranch.com/
+http://www.mtnsky.com/
+http://www.bonanzacreekcountry.com/
+http://www.lonemountainranch.com/
+
+
+
+
+
+
+Two: a local small business (not a chain) that you walk by or frequent
+
+In Central Square in Cambridge there are a few popular restaurants/cafes I would be interested in exploring a site for, as well as a bookstore that might be interesting. Right now I’m gravitating toward focusing on a place around the block from where I live called Life Alive, but they have sister restaurants in Lowell and Salem. I’m interested in the place, but their esthetic is nothing like my own. A good object to focus  a study on the transformational properties of CSS.
+
+I would also consider flour (also one of a local group), Central Kitchen or Central Bottle and Wine where they sell meats, cheese, beer and wine. Central Kitchen is one of those upscale restaurants still stuck in the Flash.
+
+http://www.lifealive.com/
+http://www.flourbakery.com/
+http://www.centralbottle.com/
+
+http://www.enormous.tv/central/index1.html (Central Kitchen)
+
+http://www.rodneysbookstore.com/
+
+
+
+
+
+
+Three: a lobbying group or political party (real or fake)
+In my time of studying closely the ins and outs of (and obsessing about) politics, this is exactly the sort of thing I’ve learned to avoid looking too closely into the past 12 years because it makes me angry, and because seems all to be a trap. So I avoid too much direct contact the blogosphere and the pundits. Not because I'm not interested, on the contrary.
+
+While it seems prudent to me to focus on some specific issue, I also don't want to narrow things down too quickly. Some of my core personal interests are in the rhetoric, propaganda, public relations, ideology, the marketing—the bullshit—of social discourse. So I’m thinking right now that I want to focus on a fictional entity that produces bogus ideology.
+
+In any case I would want to pursue my ideology producing organization as a parody, satire: a bogus bogus ideology and media enterprise. As it seems to me the only way to cut through the extreme polarization of politics is through something like the Colbert Report or clever cartoons.
+
+Whether I focus on the media around a set of issues or on the production of ideology in general, I want to base my parodic satire more on the sites below in the right wing list and use the "progressives" (there isn’t really an American left in the sense that there is an active American right right now) more for informing my own perspective to be able to generate the parody.
+
+Examples of right-wing think tanks and ideology sites
+http://www.luntzglobal.com/
+http://www.aei.org/
+http://www.cato.org/
+http://www.heritage.org/
+ww.uschamber.com
+http://goldwaterinstitute.org/
+http://www.hoover.org/
+http://www.aynrand.org/
+http://www.rand.org/
+http://www.spn.org/
+
+progressive think tanks and right-wing watch sites:
+http://mediamatters.org/
+http://www.rightwingwatch.org/content/american-enterprise-institute
+http://www.alternet.org/
+http://truth-out.org/
+http://www.democracynow.org/
+http://www.publiceye.org/
+http://www.splcenter.org/
+http://www.pfaw.org/
+
+
+
+
+
+Though it doesn’t quite fall into either the local business category or the political/lobby category, a site that I have been meaning to to work on (but haven’t) is a site for my humanities academic longtime domestic partner. She teaches courses at Tufts (and writes) about literature, art film, and media in general with a focus on race. She taught for some time so has accumulated a lot of her own writing as well as a lot of material she can post or link to.
+
+In general in this course, I want my focus to be on technical things. I need to learn to build certain kinds of interactions or user experiences, and I can already see how easily I could  to get distracted (obsesssed) by the content and not spend enough time time on the UX design and development part.
