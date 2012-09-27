@@ -1,0 +1,68 @@
+The Ranch
+	History
+	press
+	testimonials
+
+Activities {accordian}
+	horseback riding
+	hiking
+	exploring
+	fishing
+	mountain biking
+	
+	working cows
+	irrigating
+	fencing
+	haying or farming
+	shooting rifles
+
+The Spa  {accordian each with menu/prices}
+	body treatments
+		massage (types), hot rocks, desensitization, rituals, etc.
+	salon
+		manicure, pedicure, makeup, hair cut, styling, waxing (list)
+	personal consultations
+	weight loss
+	yoga (various varieties)
+	pilates
+	dance
+
+	teacher training
+	immersion programs
+
+	lectures/featured presentations
+	personal wellness classes
+	life mangement
+	metaphysics
+
+
+Accomodations  {tabs}
+	cabins
+	main lodge
+	extended stay
+
+Dining  {tabs}
+	cafe
+	lounge
+	dining room (band)
+	organic cafe
+	night in town
+
+Planned Events {tabs}
+	corporate
+	family, wedding
+	packages
+	
+
+Ranch Supply
+	hats, mugs, tshirts
+	ranch wear
+
+Contact
+	request info and enquiries
+	rates
+	reservations/res policies
+	directions/maps
+	legal
+	
+	
